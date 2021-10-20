@@ -1,0 +1,5 @@
+springproject.DAO.CustomerDAOImpl=org.springframework.stereotype.Component
+springproject.aspect.CRMLoggingAspect=org.springframework.stereotype.Component
+springproject.controller.CustomerController=org.springframework.stereotype.Component
+springproject.entity.Customer=javax.persistence.Entity,javax.persistence.Table
+springproject.service.CustomerServiceImpl=org.springframework.stereotype.Component
